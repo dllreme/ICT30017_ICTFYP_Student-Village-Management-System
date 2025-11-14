@@ -8,6 +8,7 @@ if (!isset($_SESSION['user']) || $_SESSION['role'] !== 'admin') {
 }
 
 //new//
+//hello//
 $username = explode('@', $_SESSION['user'])[0];
 ?>
 <!DOCTYPE html>
