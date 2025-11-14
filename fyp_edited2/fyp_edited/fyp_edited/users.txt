@@ -1,0 +1,7 @@
+admin@example.com:123456:admin
+student1@example.com:student123:student
+student2@example.com:password456:student
+tenant1@example.com:tenant123:tenant
+tenant2@example.com:password789:tenant
+john@example.com:john123:student
+mary@example.com:mary456:tenant

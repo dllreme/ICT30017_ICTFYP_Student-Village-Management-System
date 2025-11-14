@@ -1,0 +1,35 @@
+2025-11-05 04:39:06 - User tenant1@example.com (tenant) logged in from ::1
+2025-11-05 04:43:41 - User admin@example.com (admin) logged in from ::1
+2025-11-10 09:16:23 - User tenant1@example.com (tenant) logged in from 127.0.0.1
+2025-11-10 09:26:14 - User admin@example.com (admin) logged in from 127.0.0.1
+2025-11-10 10:07:59 - User tenant1@example.com (tenant) logged in from 127.0.0.1
+2025-11-10 10:10:58 - User tenant1@example.com (tenant) logged out from 127.0.0.1
+2025-11-10 10:11:12 - User admin@example.com (admin) logged in from 127.0.0.1
+2025-11-10 10:13:37 - User admin@example.com (admin) logged out from 127.0.0.1
+2025-11-10 10:20:30 - User admin@example.com (admin) logged in from 127.0.0.1
+2025-11-10 10:32:55 - User admin@example.com (admin) logged in from 127.0.0.1
+2025-11-10 10:33:47 - User admin@example.com (admin) logged in from 127.0.0.1
+2025-11-10 10:53:05 - User admin@example.com (admin) logged in from 127.0.0.1
+2025-11-10 15:50:20 - User admin@example.com (admin) logged out from 127.0.0.1
+2025-11-10 15:56:33 - User admin@example.com (admin) logged in from 127.0.0.1
+2025-11-10 15:57:04 - User admin@example.com (admin) logged out from 127.0.0.1
+2025-11-10 15:58:03 - User admin@example.com (admin) logged in from 127.0.0.1
+2025-11-10 16:16:43 - User admin@example.com (admin) logged in from 127.0.0.1
+2025-11-11 05:09:55 - User admin@example.com (admin) logged out from 127.0.0.1
+2025-11-11 05:10:05 - User tenant1@example.com (tenant) logged in from 127.0.0.1
+2025-11-11 05:12:10 - User tenant1@example.com (tenant) logged out from 127.0.0.1
+2025-11-11 05:12:26 - User tenant1@example.com (tenant) logged in from 127.0.0.1
+2025-11-11 05:19:29 - User admin@example.com (admin) logged in from 127.0.0.1
+2025-11-11 05:22:25 - User student1@example.com (student) logged in from ::1
+2025-11-11 05:23:13 - Failed login attempt for email: tenant1@example.com from ::1
+2025-11-11 05:23:49 - Failed login attempt for email: tenant1@example.com from ::1
+2025-11-11 05:24:10 - Failed login attempt for email: tenant1@example.com from ::1
+2025-11-11 05:25:22 - User tenant1@example.com (tenant) logged in from ::1
+2025-11-11 05:25:58 - User tenant1@example.com (tenant) logged out from ::1
+2025-11-11 05:26:12 - User admin@example.com (admin) logged in from ::1
+2025-11-11 05:27:48 - User admin@example.com (admin) logged in from ::1
+2025-11-11 05:29:16 - User admin@example.com (admin) logged out from ::1
+2025-11-11 05:29:34 - User student1@example.com (student) logged in from ::1
+2025-11-14 14:43:43 - Failed login attempt for email: student1@example.com from ::1
+2025-11-14 14:44:03 - User student1@example.com (student) logged in from ::1
+2025-11-14 14:44:54 - User admin@example.com (admin) logged in from ::1
